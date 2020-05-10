@@ -42,3 +42,7 @@ combined_buoys.py -> Combined output for all the buoys together
 The .npy files have been attached here as well.<br />
 
 They contain the means weights and covariances for green orange and yellow buoys, respectively.<br />
+-------------------------------------------------------------------------------------------------------------
+
+
+![image](https://user-images.githubusercontent.com/8612835/81492148-8dfff180-9263-11ea-93f7-aeef69f02f39.png)
