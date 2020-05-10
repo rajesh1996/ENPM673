@@ -6,7 +6,10 @@ Green buoy detected
 Orange Buoy detected
 ![Orange_buoy](https://user-images.githubusercontent.com/8612835/81492502-4333a900-9266-11ea-97a7-1732b62d7795.png)
 
+
 All buoy detected
+
+
 ![all_buoys](https://user-images.githubusercontent.com/8612835/81492509-4a5ab700-9266-11ea-9baf-b4034cd8ba30.PNG)
 
 
