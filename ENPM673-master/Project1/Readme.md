@@ -1,7 +1,7 @@
-Project - 1
+Project - 1 AR Tag detection
 
 
-AR Tag detection
+
 
 Tag detected with Lena superimposed:
 
