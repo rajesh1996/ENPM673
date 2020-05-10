@@ -1,4 +1,15 @@
-![image](https://user-images.githubusercontent.com/8612835/81492148-8dfff180-9263-11ea-93f7-aeef69f02f39.png)				
+Project - 3 Underwater Buoy detection using Gaussian Mixture Models (GWM)
+
+Green buoy detected
+![green_buoy](https://user-images.githubusercontent.com/8612835/81492498-3dd65e80-9266-11ea-8e70-bb922c8c6f0c.png)
+
+Orange Buoy detected
+![Orange_buoy](https://user-images.githubusercontent.com/8612835/81492502-4333a900-9266-11ea-97a7-1732b62d7795.png)
+
+All buoy detected
+![all_buoys](https://user-images.githubusercontent.com/8612835/81492509-4a5ab700-9266-11ea-9baf-b4034cd8ba30.PNG)
+
+
 ---------------------------------------------- CODES-----------------------------------------------------------------
 
 
