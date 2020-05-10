@@ -1,20 +1,9 @@
-								Project 3 Submission - ENPM673 - Perception for Autonomous Robotics
---------------------------------------------------------TEAM----------------------------------------------------------------------
-## Group members :
 
-Ashwin Prabhakar<br />
-Govind Ajith Kumar<br />
-Rajeshwar N S <br />
 
-------------------
-Submission date : 
-6th April - 2020<br />
--------------------------------------------------------------
-						There are  13 codes attached without any sub-directories. 
+
+					
 ---------------------------------------------- CODES------------------------------------------------------------------
-The codes in .py files are as follows:<br />
 
-## Codes are :
 
 NOTE: CODE BELOW WILL ONLY WORK IF THERE ARE A BUNCH OF IMAGES IN THE FOLDER TO CROP<br />
 roipoly.py - > does the cropping using points given by the user<br />
@@ -50,48 +39,6 @@ combined_buoys.py -> Combined output for all the buoys together
 
 
 
-------------------------------------------------------NOTE REGARDING THE .npy FILES----------------------------------------
-
 The .npy files have been attached here as well.<br />
 
 They contain the means weights and covariances for green orange and yellow buoys, respectively.<br />
-
--------------------------------------------------------VIDEOS---------------------------------------------------------------
-## The Youtube links to the videos are as follows:<br />
-<br />
-## Combined Video >>>><br />
-
-https://youtu.be/k08j0B4qnFw<br />
-<br />
-## Individual Videos >>>>><br />
-
-https://youtu.be/RguKZUCVQdY<br />
-https://youtu.be/cgsLLHPmiag<br />
-https://youtu.be/19244eKtAhs<br />
---------------------------------------------------------GITHUB---------------------------------------------------------------------
-## Github repo  : <br />
-
-https://github.com/govindak-umd/ENPM673/tree/master/Project%203<br />
-------------------------------------------------------------------------------------------------------------------------------------
-## All the VIDEO files have been linked above. Few images have been attached in submission and report as well.<br />
-
-------------------------------------------------------PROGRAMME-----------------------------------------------------------------------
-## Programme used:<br />
-Python 3.7<br />
-OpenCV 4.xx<br />
--------------------------------------------------LIBRARIES IMPORTED-------------------------------------------------------------------
-## Libraries used:<br />
-
-import cv2<br />
-import numpy as np<br />
-from scipy.stats import multivariate_normal<br />
-from imutils import contours<br />
-from matplotlib import pyplot as plt<br />
-import glob<br />
-import imageio<br />
-from roipoly import roipoly<br />
-import os<br />
-
------------------------------------------------------------------------------------------------------------------------------------
-
-____________________________________________________________________________________________________________________________________
