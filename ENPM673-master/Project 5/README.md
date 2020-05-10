@@ -1,6 +1,5 @@
 
 Feature detection:
-
 ![](ORB-FLANN.png)<br/>	
 
 
