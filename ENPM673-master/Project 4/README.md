@@ -1,16 +1,18 @@
-		Project 4 Submission - ENPM673 - Perception for Autonomous Robotics
-		
-TEAM
-------
-    Ashwin Prabhakar
-    Govind Ajith Kumar
-    Rajeshwar N S 
+Project - 4 Optical flow - Lucas Kanade Affine Tracker
 
-Submission date : 
-------
-    20th April - 2020
--------------------------------------------------------------
-						There are  6 codes attached without any sub-directories. 
+Bolt video detection-
+
+![bolt](https://user-images.githubusercontent.com/8612835/81494694-dece1500-9278-11ea-977c-e4eceeec865f.jpg)
+
+
+Car video detection-
+![car](https://user-images.githubusercontent.com/8612835/81494704-ea214080-9278-11ea-9051-0436c42ec856.jpg)
+
+
+Baby dragon video detection-
+![baby](https://user-images.githubusercontent.com/8612835/81494713-f60d0280-9278-11ea-83b6-0bf2a97f4333.jpg)
+
+
 The codes in .py files are as follows:
 
     lucas-kanade_BABY.py (lucas kanade algorithm for detection)
@@ -34,36 +36,3 @@ Directories are:
     all_new_imgs_BOLT
 
 These can be empty folders that will get populated when the code is run.
-
-YOUTUBE VIDEOS
-------
-
-
-    https://youtu.be/4Lh4ISospVQ
-    https://youtu.be/i4TaXdF2sTY
-    https://youtu.be/o-suy8SslAo
-    https://youtu.be/Zbeu6yfYEiQ
-   
-GITHUB
-------
-
-
-    https://github.com/govindak-umd/ENPM673/tree/master/Project%204
-
-Software used:
-------
-
-    Python 3.7
-    OpenCV 4.xx
-
-Libraries
-------
-
-    import cv2
-    import numpy as np
-    import glob
-    from scipy.ndimage import affine_transform
-    import math
------------------------------------------------------------------------------------------------------------------------------------
-
-____________________________________________________________________________________________________________________________________
